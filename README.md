@@ -1,1 +1,2 @@
-# PRODIGY_ML_02
+# PRODIGY_ML
+Tasks Repository for Prodigy InfoTech Machine Learning Internship
